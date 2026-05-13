@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **MERN, FLASK**
 
-- 📫 How to reach me **saidul.online@outlook.com**
+- 📫 How to reach me **sksaidul.contact@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
