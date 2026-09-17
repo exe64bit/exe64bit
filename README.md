@@ -22,7 +22,7 @@ I'm a CS engineer who enjoys turning ideas into working software — from backen
 
 - 🔭 Currently deepening my grip on JavaScript internals and modern backend architecture
 - 💬 Happy to talk **MERN**, **Flask**, or general full-stack architecture
-- 📫 Reach me at **email@email.com**
+- 📫 Reach me at **sksaidul.contact@gmail.com**
 
 <br>
 
@@ -88,8 +88,6 @@ I'm a CS engineer who enjoys turning ideas into working software — from backen
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=exe64bit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=94a3b8&icon_color=94a3b8&text_color=cbd5e1" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=exe64bit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=94a3b8&text_color=cbd5e1" width="41%" />
 
 <br>
 
